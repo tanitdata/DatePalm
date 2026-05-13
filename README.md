@@ -126,20 +126,9 @@ GPL-3.0. See [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this data or code, please cite both the paper and the data access tool:
+If you use this data or code, please cite the data access tool:
 
 ```bibtex
-@article{gasmi2026datepalm,
-  title     = {Emerging climate--yield re-coupling in overexploited date
-               palm oases: satellite evidence from a 22-year temporal
-               decoupling index in southern Tunisia},
-  author    = {Gasmi, Tarek and Gasmi, Ramzi and Abdelbari, Slim and
-               Boulares, Soura and Albarghati, Sajeda},
-  journal   = {Agricultural Water Management},
-  year      = {2026},
-  note      = {Submitted}
-}
-
 @software{tanitdata2026,
   title     = {tanitdata: Domain-Adapted MCP Server for Tunisia's
                Agricultural Open Data},
