@@ -1,0 +1,4 @@
+model,MAE_t,MAPE_%,RMSE_t,R2_tonnes
+Ridge (Test),4630.53,4.45,7509.38,0.99
+RF (Test),5134.68,4.83,8451.62,0.99
+XGBoost (Test),4736.62,5.29,8013.53,0.99

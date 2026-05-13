@@ -1,0 +1,7 @@
+model,MAE_pp,RMSE_pp,R2_anomaly
+Ridge (CV),5.64,7.34,-0.11
+Ridge (Test),4.465,5.192,-0.102
+RF (CV),5.707,7.435,-0.139
+RF (Test),4.864,5.625,-0.294
+XGBoost (CV),5.634,7.278,-0.091
+XGBoost (Test),5.343,5.864,-0.407

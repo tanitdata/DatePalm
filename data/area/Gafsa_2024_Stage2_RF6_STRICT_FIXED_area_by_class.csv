@@ -1,0 +1,7 @@
+system:index,area_ha,class_code,class_name,governorate,method,year,.geo
+0,3330.3856538281343,0,date_palm,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,20678.103209166464,1,other_irrigated_trees,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,7351.202397648033,2,urban_built_up,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,395545.81809292134,3,bare_soil_desert,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,63.5004787841797,4,chott_salt_flat,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,331662.1376293978,5,sparse_steppe_vegetation,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"

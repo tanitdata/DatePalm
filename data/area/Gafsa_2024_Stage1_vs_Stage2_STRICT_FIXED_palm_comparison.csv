@@ -1,0 +1,2 @@
+system:index,expected_reference_palm_area_ha,governorate,method,stage1_T014_oasis_area_ha,stage1_over_stage2_ratio,stage2_minus_expected_ha,stage2_over_expected_ratio,stage2_refined_palm_area_ha,target_lower_reasonable_ha,target_upper_reasonable_ha,year,.geo
+0,2950,Gafsa,Stage2_Gafsa_2024_RF6_strict_oasis_postrule_memory_safe,82907,24.894113960856746,380.3856538281352,1.1289442894332662,3330.385653828135,2500,4000,2024,"{""type"":""MultiPoint"",""coordinates"":[]}"

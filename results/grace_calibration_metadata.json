@@ -1,0 +1,28 @@
+{
+  "source": "NASA PO.DAAC JPL GRACE/GRACE-FO Mascon RL06.1 v3",
+  "download_date": "2026-03-29T15:38:56.925142",
+  "nc_file": "GRCTellus.JPL.200204_202501.GLO.RL06.3M.MSCNv04CRI.nc",
+  "study_area_bbox": {
+    "lat": [
+      32.5,
+      35.0
+    ],
+    "lon": [
+      7.0,
+      11.0
+    ]
+  },
+  "study_area_km2": 42968,
+  "cm_to_Mm3_factor": 429.68,
+  "extraction_weights": {
+    "Gabes": 0.16917478115471626,
+    "Gafsa": 0.05631221754593033,
+    "Kebili": 0.56188494251267,
+    "Tozeur": 0.21262805878668348
+  },
+  "total_months": 276,
+  "real_observations": 238,
+  "interpolated_months": 38,
+  "interpolation_pct": 13.8,
+  "methodology": "Area-weighted mean TWS anomaly over study region bbox. Cosine-latitude weighting applied. Governorate differentiation via CRDA extraction weight scaling. Missing months filled with linear interpolation."
+}
