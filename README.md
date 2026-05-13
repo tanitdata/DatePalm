@@ -77,14 +77,13 @@ DatePalm/
 | CRDA | Aquifer exploitation bulletins | Governorate | 2020–2024 |
 | agridata.tn | Palm area, exports, arboriculture | National/Gov. | Various |
 
-## Data access via TanitData
+## Acknowledgment: data access via TanitData
 
 Ground-truth datasets from Tunisia's agricultural open data portal
 ([catalog.agridata.tn](https://catalog.agridata.tn)) were accessed
-programmatically through the **TanitData MCP server**, a domain-adapted
-AI data access layer that provides semantic vocabulary bridging for
-Arabic/French agricultural datasets. The following datasets were retrieved
-via TanitData:
+programmatically through the [TanitData MCP server](https://github.com/tanitdata/agridata-mcp),
+which provides a semantic vocabulary-bridging layer for Arabic/French
+agricultural datasets. Datasets retrieved via TanitData for this study:
 
 - **ONAGRI production data:** "Évolution de la production des dattes" (DGPA)
 - **CRDA aquifer bulletins:** Exploitation rates, well counts, salinity — for Tozeur, Kébili, Gafsa, Gabès
@@ -92,21 +91,6 @@ via TanitData:
 - **CRDA arboriculture:** Delegation-level palm area for Tozeur, Kébili, Gabès
 - **INS export statistics:** Monthly export volumes and values
 - **ONAGRI bibliography:** 25,000+ agricultural research records searched for literature review
-
-If you use TanitData in your research, please cite:
-
-```bibtex
-@software{tanitdata2026,
-  title     = {tanitdata: Domain-Adapted MCP Server for Tunisia's
-               Agricultural Open Data},
-  author    = {Gasmi, Tarek},
-  year      = {2026},
-  url       = {https://github.com/tanitdata/agridata-mcp},
-  note      = {MCP server providing AI-mediated access to
-               catalog.agridata.tn with semantic layer for
-               vocabulary bridging}
-}
-```
 
 ## Study area
 
