@@ -8,9 +8,11 @@ decoupling in southern Tunisia's date palm oases (2002–2024).
 
 **Associated paper:** "Emerging climate–yield re-coupling in overexploited
 date palm oases: satellite evidence from a 22-year temporal decoupling
-index in southern Tunisia" — submitted to *Agricultural Water Management*.
+index in southern Tunisia" — preprint available on EarthArXiv:
+[https://doi.org/10.31223/X5648P](https://doi.org/10.31223/X5648P).
+Submitted to *Agricultural Water Management*.
 
-**Authors:** Tarek Gasmi, Ramzi Gasmi, Slim Abdelbari, Soura Boulares, Sajeda Albarghati
+**Authors:** Tarek Gasmi, Ramzi Gasmi, Slim Abdelbari, Soura Boulaares, Sajeda Albarghati
 
 ---
 
@@ -126,9 +128,22 @@ GPL-3.0. See [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this data or code, please cite the data access tool:
+If you use this data or code, please cite the EarthArXiv preprint and the
+data access tool:
 
 ```bibtex
+@misc{gasmi2026datepalm,
+  title        = {Emerging climate--yield re-coupling in overexploited
+                  date palm oases: satellite evidence from a 22-year
+                  temporal decoupling index in southern Tunisia},
+  author       = {Gasmi, Tarek and Gasmi, Ramzi and Abdelbari, Slim and
+                  Boulaares, Soura and Albarghati, Sajeda},
+  year         = {2026},
+  howpublished = {EarthArXiv preprint},
+  doi          = {10.31223/X5648P},
+  url          = {https://doi.org/10.31223/X5648P}
+}
+
 @software{tanitdata2026,
   title     = {tanitdata: Domain-Adapted MCP Server for Tunisia's
                Agricultural Open Data},
