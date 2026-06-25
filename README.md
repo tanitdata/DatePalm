@@ -8,11 +8,13 @@ decoupling in southern Tunisia's date palm oases (2002–2024).
 
 **Associated paper:** "Emerging climate–yield re-coupling in overexploited
 date palm oases: satellite evidence from a 22-year temporal decoupling
-index in southern Tunisia" — preprint available on EarthArXiv:
+index in southern Tunisia" — published in *Agricultural Water Management*
+333 (2026) 110557:
+[https://doi.org/10.1016/j.agwat.2026.110557](https://doi.org/10.1016/j.agwat.2026.110557).
+A preprint is also available on EarthArXiv:
 [https://doi.org/10.31223/X5648P](https://doi.org/10.31223/X5648P).
-Submitted to *Agricultural Water Management*.
 
-**Authors:** Tarek Gasmi, Ramzi Gasmi, Slim Abdelbari, Soura Boulaares, Sajeda Albarghati
+**Authors:** Tarek Gasmi, Ramzi Guesmi, Slim Abdelbari, Soura Boulaares, Sajeda Albarghati
 
 ---
 
@@ -128,20 +130,23 @@ GPL-3.0. See [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this data or code, please cite the EarthArXiv preprint and the
+If you use this data or code, please cite the published article and the
 data access tool:
 
 ```bibtex
-@misc{gasmi2026datepalm,
-  title        = {Emerging climate--yield re-coupling in overexploited
-                  date palm oases: satellite evidence from a 22-year
-                  temporal decoupling index in southern Tunisia},
-  author       = {Gasmi, Tarek and Gasmi, Ramzi and Abdelbari, Slim and
-                  Boulaares, Soura and Albarghati, Sajeda},
-  year         = {2026},
-  howpublished = {EarthArXiv preprint},
-  doi          = {10.31223/X5648P},
-  url          = {https://doi.org/10.31223/X5648P}
+@article{gasmi2026datepalm,
+  title   = {Emerging climate--yield re-coupling in overexploited
+             date palm oases: satellite evidence from a 22-year
+             temporal decoupling index in southern Tunisia},
+  author  = {Gasmi, Tarek and Guesmi, Ramzi and Abdelbari, Slim and
+             Boulaares, Soura and Albarghati, Sajeda},
+  journal = {Agricultural Water Management},
+  year    = {2026},
+  volume  = {333},
+  pages   = {110557},
+  issn    = {0378-3774},
+  doi     = {10.1016/j.agwat.2026.110557},
+  url     = {https://doi.org/10.1016/j.agwat.2026.110557}
 }
 
 @software{tanitdata2026,
